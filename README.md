@@ -1,4 +1,3 @@
-# Color-Recognition
 # Color Recognition Project
 
 This project is a simple **real-time color recognition program** using Python and OpenCV.  
